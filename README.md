@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag122002&label=Profile%20views&color=0e75b6&style=flat" alt="anurag122002" /> </p>
 
-- 🔭 I’m currently working on [DS_Salary_Project](https://github.com/anurag122002/DS_Salary_Project)
-
-- 🌱 I’m currently learning **deployment of machine learning models**
+- 🌱 I’m currently learning about **deployment of machine learning models**
 
 - 📫 How to reach me **kinwaranurag12@gmail.com**
 
